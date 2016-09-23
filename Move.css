@@ -1,0 +1,32 @@
+.moveimage
+{
+    position: relative;
+    left: 825px;
+	bottom: 150px;
+}
+
+.jumbotron 
+{
+	max-height: 300px;
+}
+
+.moveicon
+{
+	position: relative;
+	bottom: 70px;
+	right: 215px;
+}
+
+.moveicon2
+{
+	position: relative;
+	bottom: 70px;
+	right: 190px;
+}
+
+.moveicon3
+{
+	position: relative;
+	bottom: 70px;
+	right: 165px;
+}
